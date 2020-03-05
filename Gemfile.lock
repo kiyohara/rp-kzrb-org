@@ -3,7 +3,7 @@ GEM
   specs:
     foreman (0.87.0)
     nio4r (2.5.2)
-    puma (4.3.1)
+    puma (4.3.3)
       nio4r (~> 2.0)
     rack (2.2.2)
     rack-proxy (0.6.5)
@@ -21,7 +21,7 @@ DEPENDENCIES
   rack-reverse-proxy
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.7.0p0
 
 BUNDLED WITH
-   1.17.2
+   2.1.4
